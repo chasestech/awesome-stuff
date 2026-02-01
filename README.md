@@ -50,6 +50,17 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Gitea](https://github.com/go-gitea/gitea) - A painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD.
 
+## Home
+
+### Automation
+
+- [Home Assistant](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first.
+- [Z-Wave JS UI](https://github.com/zwave-js/zwave-js-ui) - Full featured Z-Wave Control Panel UI and MQTT gateway.
+
+### Inventory
+
+- [Homebox](https://github.com/sysadminsmedia/homebox) - The inventory and organization system built for the Home User.
+
 ## Knowledge Management
 
 - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration.
@@ -97,6 +108,12 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Sloth](https://github.com/slok/sloth) - Easy and simple Prometheus SLO (service level objectives) generator.
 - [Tempo](https://github.com/grafana/tempo) - A high volume, minimal dependency distributed tracing backend.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool that supports various notification types and monitoring protocols.
+
+## Personal Tools
+
+### Finance
+
+- [Sure](https://github.com/we-promise/sure) - The personal finance app for everyone.
 
 ## Security
 
