@@ -30,8 +30,8 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [CloudNativePG](https://github.com/cloudnative-pg/cloudnative-pg) - A comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle.
 - [MariaDB Operator](https://github.com/mariadb-operator/mariadb-operator) - Run and operate MariaDB in a cloud native way.
 - [OpenEverest](https://github.com/openeverest/openeverest) - An open-source platform for automated database provisioning and management on Kubernetes.
-- [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database for the realtime web.
 - [Supabase](https://github.com/supabase/supabase) - An open source Firebase alternative giving you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database for the realtime web.
 - [Vitess](https://github.com/vitessio/vitess) - A database clustering system for horizontal scaling of MySQL, allowing you to grow your database indefinitely.
 
 ## Development
@@ -102,6 +102,11 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ### Service Mesh
 
 - [Istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+
+## Messaging & Streaming
+
+- [AutoMQ](https://github.com/AutoMQ/automq) - A diskless Kafka® on S3 offering 10x cost savings and scaling in seconds.
+- [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes.
 
 ## Monitoring
 
