@@ -95,10 +95,8 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) - The open-source and participative security solution offering crowdsourced protection against malicious IPs.
 - [Falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security tool that detects anomalous behavior at the application, container, host, and network levels.
-- [Infisical](https://github.com/Infisical/infisical) - Open source secret management platform with Privileged Access Management (PAM) and certificate management (PKI) to help teams sync secrets across their development lifecycle and infrastructure.
 - [Kubescape](https://github.com/kubescape/kubescape) - Open-source Kubernetes security platform for risk analysis, security compliance, CI/CD scanning, and image vulnerability scanning.
 - [Kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes offering real-time, protocol-level visibility into K8s internal network traffic.
-- [OpenBao](https://github.com/openbao/openbao) - Open source secret management software for managing secrets and protecting sensitive data, created as a fork of HashiCorp Vault.
 - [Prowler](https://github.com/prowler-cloud/prowler) - Open-source cloud security platform that automates security and compliance across any cloud environment.
 - [Tetragon](https://github.com/cilium/tetragon/) - eBPF-based security observability and runtime enforcement tool, capable of detecting and restricting malicious activity in real-time.
 - [Tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics tool using eBPF to trace and analyze events in the system.
@@ -108,9 +106,18 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 
+### Password Managers
+
+- [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - An unofficial Bitwarden compatible server written in Rust, perfect for self-hosting password management.
+
 ### Personal Security
 
 - [Personal Security Checklist](https://github.com/lissy93/personal-security-checklist) - A compiled checklist of 300+ tips for protecting digital security and privacy.
+
+### Secrets Management
+
+- [Infisical](https://github.com/Infisical/infisical) - Open source secret management platform with Privileged Access Management (PAM) and certificate management (PKI) to help teams sync secrets across their development lifecycle and infrastructure.
+- [OpenBao](https://github.com/openbao/openbao) - Open source secret management software for managing secrets and protecting sensitive data, created as a fork of HashiCorp Vault.
 
 ## Static Site Generators
 
