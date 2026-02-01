@@ -57,12 +57,18 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Home Assistant](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first.
 - [Z-Wave JS UI](https://github.com/zwave-js/zwave-js-ui) - Full featured Z-Wave Control Panel UI and MQTT gateway.
 
+### Media
+
+- [Immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [Jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System.
+
 ### Inventory
 
 - [Homebox](https://github.com/sysadminsmedia/homebox) - The inventory and organization system built for the Home User.
 
 ## Knowledge Management
 
+- [Joplin](https://github.com/laurent22/joplin) - The privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration.
 
 ## Kubernetes
@@ -129,6 +135,11 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics tool using eBPF to trace and analyze events in the system.
 - [Wazuh](https://github.com/wazuh/wazuh) - The Open Source Security Platform providing unified XDR and SIEM protection for endpoints and cloud workloads.
 
+### Identity & Access Management
+
+- [Authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
+- [LLDAP](https://github.com/lldap/lldap) - Light LDAP implementation for authentication.
+
 ### Encryption
 
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
@@ -159,6 +170,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ### File Sharing & Management
 
 - [Filebrowser](https://github.com/filebrowser/filebrowser) - A web-based file manager that allows you to manage your files within a specified directory on your server from any browser.
+- [LocalSend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop.
 - [Nextcloud](https://github.com/nextcloud/server) - A safe home for all your data, providing a collaborative platform for file hosting, sharing, and productivity.
 - [OpenCloud](https://github.com/opencloud-eu/opencloud) - An open source platform for file management, sharing, and collaboration that focuses on simplicity and data sovereignty.
 - [Seafile](https://github.com/haiwen/seafile) - A high-performance file syncing and sharing solution that extends beyond basic storage with flexible file organization and views.
