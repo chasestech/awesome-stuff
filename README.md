@@ -42,6 +42,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [OpenFeature](https://github.com/open-feature/spec) - An open standard for feature flag management, providing a consistent API for developers. [Website](https://openfeature.dev)
 - [Unleash](https://github.com/Unleash/unleash) - An open-source feature management platform that gives you a great overview of all feature toggles across all your applications and services.
 
+### Container Registry
+
+- [Harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+
 ### Frameworks
 
 - [Flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
