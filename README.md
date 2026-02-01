@@ -108,6 +108,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 
+### Personal Security
+
+- [Personal Security Checklist](https://github.com/lissy93/personal-security-checklist) - A compiled checklist of 300+ tips for protecting digital security and privacy.
+
 ## Static Site Generators
 
 - [Hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites, offering amazing speed and flexibility.
