@@ -99,7 +99,9 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ## Monitoring
 
+- [Alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines.
 - [Beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of web applications and network metrics.
+- [Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter for Prometheus.
 - [Grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform.
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [Mimir](https://github.com/grafana/mimir) - Provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
