@@ -144,6 +144,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
 - [LLDAP](https://github.com/lldap/lldap) - Light LDAP implementation for authentication.
+- [OAuth2 Proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
 ### Encryption
 
