@@ -88,6 +88,14 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ## Monitoring
 
+- [Beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of web applications and network metrics.
+- [Grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform.
+- [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+- [Mimir](https://github.com/grafana/mimir) - Provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry, an observability framework for cloud-native software.
+- [Pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code.
+- [Sloth](https://github.com/slok/sloth) - Easy and simple Prometheus SLO (service level objectives) generator.
+- [Tempo](https://github.com/grafana/tempo) - A high volume, minimal dependency distributed tracing backend.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool that supports various notification types and monitoring protocols.
 
 ## Security
@@ -142,3 +150,9 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Rook](https://github.com/rook/rook) - An open source cloud-native storage orchestrator for Kubernetes, providing platform, framework, and support for a diverse set of storage solutions to natively integrate with cloud-native environments.
 - [RustFS](https://github.com/rustfs/rustfs) - An open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms.
 - [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - A fast distributed storage system for blobs, objects, files, and data lake, designed to store billions of files efficiently.
+
+## Web Analytics
+
+- [Plausible](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [PostHog](https://github.com/PostHog/posthog) - An all-in-one developer platform for building successful products, offering product analytics, web analytics, session replay, and more.
+- [Umami](https://github.com/umami-software/umami) - A modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
