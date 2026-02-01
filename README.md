@@ -1,6 +1,6 @@
 # Awesome Tools
 
-A curated list of awesome tools for Kubernetes and DevOps.
+A curated list of tools and projects that I find interesting. Inclusion in this list does not necessarily indicate usage, endorsement, or recommendation.
 
 ## AI / Machine Learning
 
