@@ -5,6 +5,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ## AI / Machine Learning
 
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
+- [OpenClaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform.
 - [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...).
 
 ## Android
