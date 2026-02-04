@@ -37,15 +37,19 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ## Development
 
+### Containers
+
+- [Buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
+- [Harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [Kaniko](https://github.com/chainguard-forks/kaniko) - A tool to build container images in Kubernetes without Docker daemon. This repository is a fork of [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) maintained by Chainguard. Another community fork is available at [osscontainertools/kaniko](https://github.com/osscontainertools/kaniko).
+
 ### Feature Flagging
 
 - [Flagd](https://github.com/open-feature/flagd) - A feature flag daemon with a Unix philosophy that provides an HTTP or gRPC API for flag evaluation.
 - [OpenFeature](https://github.com/open-feature/spec) - An open standard for feature flag management, providing a consistent API for developers. [Website](https://openfeature.dev)
 - [Unleash](https://github.com/Unleash/unleash) - An open-source feature management platform that gives you a great overview of all feature toggles across all your applications and services.
 
-### Container Registry
 
-- [Harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 
 ### Frameworks
 
