@@ -59,6 +59,11 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
+### Shell
+
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven framework for managing your zsh configuration.
+- [Starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
 ### Source Code Management
 
 - [Gitea](https://github.com/go-gitea/gitea) - A painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD.
