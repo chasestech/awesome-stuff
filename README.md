@@ -175,6 +175,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - An unofficial Bitwarden compatible server written in Rust, perfect for self-hosting password management.
 
+### Pentesting
+
+- [Shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps.
+
 ### Personal Security
 
 - [Personal Security Checklist](https://github.com/lissy93/personal-security-checklist) - A compiled checklist of 300+ tips for protecting digital security and privacy.
