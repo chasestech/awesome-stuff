@@ -45,6 +45,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [Kaniko](https://github.com/chainguard-forks/kaniko) - A tool to build container images in Kubernetes without Docker daemon. This repository is a fork of [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) maintained by Chainguard. Another community fork is available at [osscontainertools/kaniko](https://github.com/osscontainertools/kaniko).
 - [Nerdctl](https://github.com/containerd/nerdctl) - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, and more.
+- [ORAS](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages.
 - [Podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods.
 - [Rancher Desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop.
 
