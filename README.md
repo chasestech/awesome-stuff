@@ -95,6 +95,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ## Kubernetes
 
+### Autoscaling
+
+- [KEDA](https://github.com/kedacore/keda) - A specialized Kubernetes autoscaler that drives the scaling of any container based on metrics from diverse external event sources, including queues, streams, and databases.
+
 ### Control Planes
 
 - [Crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane.
