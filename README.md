@@ -61,6 +61,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
+### Package Management
+
+- [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. It serves as a drop-in replacement for pip, pip-tools, and virtualenv.
+
 ### Shell
 
 - [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
