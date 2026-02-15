@@ -49,6 +49,11 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods.
 - [Rancher Desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop.
 
+
+### Dotfile Management
+
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple distinct machines, securely.
+
 ### Feature Flagging
 
 - [Flagd](https://github.com/open-feature/flagd) - A feature flag daemon with a Unix philosophy that provides an HTTP or gRPC API for flag evaluation.
