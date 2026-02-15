@@ -63,6 +63,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ### Package Management
 
+- [Homebrew](https://github.com/Homebrew/brew) - The missing package manager for macOS (or Linux).
 - [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. It serves as a drop-in replacement for pip, pip-tools, and virtualenv.
 
 ### Shell
