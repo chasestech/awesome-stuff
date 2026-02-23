@@ -159,6 +159,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Tempo](https://github.com/grafana/tempo) - A high volume, minimal dependency distributed tracing backend.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool that supports various notification types and monitoring protocols.
 
+## Networking
+
+- [OPNsense](https://github.com/opnsense/core) - An open source, easy-to-use and easy-to-build firewall and routing platform. Forked from pfSense.
+
 ## Personal Tools
 
 ### Finance
