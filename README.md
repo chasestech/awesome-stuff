@@ -17,6 +17,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ## Cloud Desktop & OS
 
 - [Atlas](https://github.com/Atlas-OS/Atlas) - An open-source modification for Windows 10 and 11 designed to optimize system performance, minimize latency, and improve privacy.
+- [Kasm Workspaces](https://github.com/kasmtech/workspaces-issues) - A container streaming platform for delivering browser, desktop, and application workloads to the web browser.
 - [Puter](https://github.com/HeyPuter/puter) - An advanced, open-source internet OS designed to run in the browser, featuring a feature-rich desktop environment and file management system.
 - [Webtop](https://github.com/linuxserver/docker-webtop) - Linux in a web browser supporting popular desktop environments (Ubuntu, Alpine, Arch, and Fedora).
 
@@ -81,6 +82,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ### Source Code Management
 
 - [Gitea](https://github.com/go-gitea/gitea) - A painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD.
+
+### Utilities
+
+- [IT Tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
 ## Home
 
@@ -161,6 +166,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ## Networking
 
+- [NetBird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard-based overlay network with SSO, MFA and granular access controls. Like a self-hosted Tailscale.
 - [OPNsense](https://github.com/opnsense/core) - An open source, easy-to-use and easy-to-build firewall and routing platform. Forked from pfSense.
 
 ## Personal Tools
@@ -168,6 +174,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ### Finance
 
 - [Sure](https://github.com/we-promise/sure) - The personal finance app for everyone.
+
+## Search Engines
+
+- [SearXNG](https://github.com/searxng/searxng) - A free internet metasearch engine which aggregates results from various search services and databases without tracking or profiling users.
 
 ## Security
 
@@ -225,6 +235,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Nextcloud](https://github.com/nextcloud/server) - A safe home for all your data, providing a collaborative platform for file hosting, sharing, and productivity.
 - [OpenCloud](https://github.com/opencloud-eu/opencloud) - An open source platform for file management, sharing, and collaboration that focuses on simplicity and data sovereignty.
 - [Seafile](https://github.com/haiwen/seafile) - A high-performance file syncing and sharing solution that extends beyond basic storage with flexible file organization and views.
+- [Syncthing](https://github.com/syncthing/syncthing) - Open source continuous file synchronization program.
 
 ### Infrastructure
 
@@ -232,6 +243,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Rook](https://github.com/rook/rook) - An open source cloud-native storage orchestrator for Kubernetes, providing platform, framework, and support for a diverse set of storage solutions to natively integrate with cloud-native environments.
 - [RustFS](https://github.com/rustfs/rustfs) - An open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms.
 - [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - A fast distributed storage system for blobs, objects, files, and data lake, designed to store billions of files efficiently.
+
+## Virtualization
+
+- [XCP-ng](https://github.com/xcp-ng/xcp) - An open-source virtualization platform and hypervisor based on XenServer.
 
 ## Web Analytics
 
