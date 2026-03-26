@@ -31,6 +31,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ## Databases
 
 - [CloudNativePG](https://github.com/cloudnative-pg/cloudnative-pg) - A comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle.
+- [Greenmask](https://github.com/GreenmaskIO/greenmask) - Open-source utility for database anonymization, synthetic data generation, and logical dumps.
 - [MariaDB Operator](https://github.com/mariadb-operator/mariadb-operator) - Run and operate MariaDB in a cloud native way.
 - [OpenEverest](https://github.com/openeverest/openeverest) - An open-source platform for automated database provisioning and management on Kubernetes.
 - [Supabase](https://github.com/supabase/supabase) - An open source Firebase alternative giving you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -94,14 +95,14 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Home Assistant](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first.
 - [Z-Wave JS UI](https://github.com/zwave-js/zwave-js-ui) - Full featured Z-Wave Control Panel UI and MQTT gateway.
 
+### Inventory
+
+- [Homebox](https://github.com/sysadminsmedia/homebox) - The inventory and organization system built for the Home User.
+
 ### Media
 
 - [Immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System.
-
-### Inventory
-
-- [Homebox](https://github.com/sysadminsmedia/homebox) - The inventory and organization system built for the Home User.
 
 ## Knowledge Management
 
@@ -191,15 +192,15 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics tool using eBPF to trace and analyze events in the system.
 - [Wazuh](https://github.com/wazuh/wazuh) - The Open Source Security Platform providing unified XDR and SIEM protection for endpoints and cloud workloads.
 
+### Encryption
+
+- [Cryptomator](https://github.com/cryptomator/cryptomator) - Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
+
 ### Identity & Access Management
 
 - [Authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
 - [LLDAP](https://github.com/lldap/lldap) - Light LDAP implementation for authentication.
 - [OAuth2 Proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-
-### Encryption
-
-- [Cryptomator](https://github.com/cryptomator/cryptomator) - Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 
 ### Password Managers
 
