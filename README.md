@@ -6,8 +6,9 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Continue](https://github.com/continuedev/continue) - Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent. Provides extensions for VSCode and JetBrains that connects to multiple providers, including locally hosted models.
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
-- [OpenClaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform.
 - [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...).
+- [OpenClaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform.
+- [OpenLIT](https://github.com/openlit/openlit) - Open-source platform for AI engineering offering OpenTelemetry-native LLM observability, evaluations, and prompt management.
 
 ## Android
 
