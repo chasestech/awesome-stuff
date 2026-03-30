@@ -69,6 +69,12 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
+### GitHub Actions
+
+- [Attest](https://github.com/actions/attest) - A GitHub Action for securely generating artifact attestations. It supports signing artifacts directly within workflows, enabling verified provenance.
+- [SBOM Action](https://github.com/anchore/sbom-action) - A GitHub Action that leverages Syft to generate a Software Bill of Materials (SBOM) for container images and directories. It integrates seamlessly into CI/CD pipelines to ensure continuous visibility of software dependencies.
+- [SLSA GitHub Generator](https://github.com/slsa-framework/slsa-github-generator) - A utility for generating SLSA3+ provenance for native GitHub Actions. It provides highly reliable and tamper-proof build provenance out of the box.
+
 ### Package Management
 
 - [Homebrew](https://github.com/Homebrew/brew) - The missing package manager for macOS (or Linux).
@@ -219,6 +225,13 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Infisical](https://github.com/Infisical/infisical) - Open source secret management platform with Privileged Access Management (PAM) and certificate management (PKI) to help teams sync secrets across their development lifecycle and infrastructure.
 - [OpenBao](https://github.com/openbao/openbao) - Open source secret management software for managing secrets and protecting sensitive data, created as a fork of HashiCorp Vault.
+
+### SLSA
+
+- [Cosign](https://github.com/sigstore/cosign) - A widely-used tool for container signing, verification, and storage in an OCI registry. Cosign supports keyless signing using OpenID Connect, making it simple to secure software artifacts.
+- [Fulcio](https://github.com/sigstore/fulcio) - A free code signing Certificate Authority (CA) built to make short-lived certificates accessible to everyone. It issues temporary certificates based on an OpenID Connect identity, eliminating the need to manage long-term signing keys.
+- [Rekor](https://github.com/sigstore/rekor) - A secure software supply chain transparency log. It uses an immutable, tamper-resistant ledger to record metadata generated throughout the software supply chain.
+- [Syft](https://github.com/anchore/syft) - A CLI tool and library for creating a comprehensive Software Bill of Materials (SBOM) from container images and filesystems. It provides deep visibility into packages and dependencies, aiding in vulnerability management.
 
 ## Static Site Generators
 
