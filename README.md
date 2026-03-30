@@ -72,6 +72,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ### GitHub Actions
 
 - [Attest](https://github.com/actions/attest) - A GitHub Action for securely generating artifact attestations. It supports signing artifacts directly within workflows, enabling verified provenance.
+- [Release Please Action](https://github.com/googleapis/release-please-action) - A GitHub Action that runs Release Please automatically within workflows. It provides a seamless way to create release proposals and manage automated versioning natively inside GitHub.
 - [SBOM Action](https://github.com/anchore/sbom-action) - A GitHub Action that leverages Syft to generate a Software Bill of Materials (SBOM) for container images and directories. It integrates seamlessly into CI/CD pipelines to ensure continuous visibility of software dependencies.
 - [SLSA GitHub Generator](https://github.com/slsa-framework/slsa-github-generator) - A utility for generating SLSA3+ provenance for native GitHub Actions. It provides highly reliable and tamper-proof build provenance out of the box.
 
@@ -79,6 +80,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Homebrew](https://github.com/Homebrew/brew) - The missing package manager for macOS (or Linux).
 - [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. It serves as a drop-in replacement for pip, pip-tools, and virtualenv.
+
+### Release Management
+
+- [Release Please](https://github.com/googleapis/release-please) - Automates Semantic Versioning and conventional commits for your repositories. It creates release Pull Requests, manages version bumps, and generates changelogs based on standard commit messages.
 
 ### Shell
 
