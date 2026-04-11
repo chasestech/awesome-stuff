@@ -266,6 +266,8 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ## Virtualization
 
+- [KubeVirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines, using KVM under the hood.
+- [Proxmox](https://www.proxmox.com/en/) - Develops powerful and efficient open-source server solutions like the Proxmox VE platform, Proxmox Backup Server, and Proxmox Mail Gateway.
 - [XCP-ng](https://github.com/xcp-ng/xcp) - An open-source virtualization platform and hypervisor based on XenServer.
 
 ## Web Analytics
