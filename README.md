@@ -182,6 +182,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [NetBird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard-based overlay network with SSO, MFA and granular access controls. Like a self-hosted Tailscale.
 - [OPNsense](https://github.com/opnsense/core) - An open source, easy-to-use and easy-to-build firewall and routing platform. Forked from pfSense.
+- [Pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access.
 
 ## Personal Tools
 
