@@ -145,6 +145,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Argo CD](https://github.com/argoproj/argo-cd) - Declarative Continuous Delivery for Kubernetes.
 - [Flux](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+- [KubeVela](https://github.com/kubevela/kubevela) - A modern application delivery platform that makes deploying and operating applications across hybrid, multi-cloud environments easier, faster and more reliable.
 
 ### Networking
 
