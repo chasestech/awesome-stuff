@@ -212,6 +212,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ### Identity & Access Management
 
 - [Authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
+- [Dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors.
 - [LLDAP](https://github.com/lldap/lldap) - Light LDAP implementation for authentication.
 - [OAuth2 Proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
