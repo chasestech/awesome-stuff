@@ -41,6 +41,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ## Development
 
+### Application Platforms
+
+- [Radius](https://github.com/radius-project/radius) - A cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
+
 ### Containers
 
 - [Apple Container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac, optimized for Apple silicon.
@@ -52,6 +56,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods.
 - [Rancher Desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop.
 
+
+### Developer Portals
+
+- [Backstage](https://github.com/backstage/backstage) - An open framework for building developer portals.
 
 ### Dotfile Management
 
