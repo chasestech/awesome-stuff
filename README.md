@@ -188,9 +188,12 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ## Networking
 
+- [Firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard.
 - [NetBird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard-based overlay network with SSO, MFA and granular access controls. Like a self-hosted Tailscale.
+- [Netmaker](https://github.com/gravitl/netmaker) - Automates fast, secure, and distributed virtual networks using WireGuard.
 - [OPNsense](https://github.com/opnsense/core) - An open source, easy-to-use and easy-to-build firewall and routing platform. Forked from pfSense.
 - [Pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access.
+- [Wiredoor](https://github.com/wiredoor/wiredoor) - Self-hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet.
 
 ## Personal Tools
 
