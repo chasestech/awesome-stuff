@@ -269,6 +269,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [LocalSend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop.
 - [Nextcloud](https://github.com/nextcloud/server) - A safe home for all your data, providing a collaborative platform for file hosting, sharing, and productivity.
 - [OpenCloud](https://github.com/opencloud-eu/opencloud) - An open source platform for file management, sharing, and collaboration that focuses on simplicity and data sovereignty.
+- [Rclone](https://github.com/rclone/rclone) - "rsync for cloud storage", a command-line program to manage files on various cloud storage providers.
 - [Seafile](https://github.com/haiwen/seafile) - A high-performance file syncing and sharing solution that extends beyond basic storage with flexible file organization and views.
 - [Syncthing](https://github.com/syncthing/syncthing) - Open source continuous file synchronization program.
 
