@@ -5,6 +5,8 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ## AI / Machine Learning
 
 - [Continue](https://github.com/continuedev/continue) - Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent. Provides extensions for VSCode and JetBrains that connects to multiple providers, including locally hosted models.
+- [KServe](https://github.com/kserve/kserve) - A standardized, highly scalable machine learning model serving platform for Kubernetes that supports serverless, multi-framework deployments.
+- [Kubeflow](https://www.kubeflow.org/) - A cloud-native platform designed to make deployments of machine learning workflows on Kubernetes simple, portable, and scalable.
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
 - [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...).
 - [OpenClaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform.
