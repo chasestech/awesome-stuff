@@ -12,6 +12,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [OpenClaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform.
 - [Opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [OpenLIT](https://github.com/openlit/openlit) - Open-source platform for AI engineering offering OpenTelemetry-native LLM observability, evaluations, and prompt management.
+- [Pi](https://github.com/earendil-works/pi) - An open-source AI agent toolkit providing a unified LLM API, interactive TUI, agent loop, and coding agent CLI.
 - [Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code) - An open-source AI-powered coding assistant and VS Code extension supporting autonomous development, custom workflow modes, and Model Context Protocol (MCP) integrations.
 
 ## Android
