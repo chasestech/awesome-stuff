@@ -4,14 +4,15 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ## AI / Machine Learning
 
-- [Continue](https://github.com/continuedev/continue) - Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent. Provides extensions for VSCode and JetBrains that connects to multiple providers, including locally hosted models.
 - [KServe](https://github.com/kserve/kserve) - A standardized, highly scalable machine learning model serving platform for Kubernetes that supports serverless, multi-framework deployments.
 - [Kubeflow](https://www.kubeflow.org/) - A cloud-native platform designed to make deployments of machine learning workflows on Kubernetes simple, portable, and scalable.
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
+- [oMLX](https://github.com/jundot/omlx) - An open-source, high-performance LLM inference server optimized for Apple Silicon using the MLX framework. It features OpenAI- and Anthropic-compatible APIs and includes paged SSD caching to speed up Time to First Token (TTFT) for large context windows.
 - [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...).
 - [OpenClaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform.
 - [Opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [OpenLIT](https://github.com/openlit/openlit) - Open-source platform for AI engineering offering OpenTelemetry-native LLM observability, evaluations, and prompt management.
+- [Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code) - An open-source AI-powered coding assistant and VS Code extension supporting autonomous development, custom workflow modes, and Model Context Protocol (MCP) integrations.
 
 ## Android
 
