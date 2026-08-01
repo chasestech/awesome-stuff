@@ -131,6 +131,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ## Knowledge Management
 
+- [HedgeDoc](https://github.com/hedgedoc/hedgedoc) - An open-source, web-based, real-time collaborative markdown editor. It allows teams to write and share documents, notes, and presentations with instant live preview.
 - [Joplin](https://github.com/laurent22/joplin) - The privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration.
 - [Open Notebook](https://github.com/lfnovo/open-notebook) - An open source implementation of Notebook LM with more flexibility and features.
