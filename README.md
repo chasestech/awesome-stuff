@@ -207,6 +207,12 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Sure](https://github.com/we-promise/sure) - The personal finance app for everyone.
 
+### Location & Travel
+
+- [AirTrail](https://github.com/johanohly/AirTrail) - An open-source, self-hosted personal flight tracking system to visualize flights on interactive maps, import flight logs, and view travel statistics.
+- [Dawarich](https://github.com/Freika/dawarich) - An open-source, self-hosted location tracking web application and Google Timeline alternative for visualizing location history and trips.
+
+
 ## Search Engines
 
 - [SearXNG](https://github.com/searxng/searxng) - A free internet metasearch engine which aggregates results from various search services and databases without tracking or profiling users.
