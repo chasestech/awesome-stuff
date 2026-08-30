@@ -24,6 +24,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Atlas](https://github.com/Atlas-OS/Atlas) - An open-source modification for Windows 10 and 11 designed to optimize system performance, minimize latency, and improve privacy.
 - [Kasm Workspaces](https://github.com/kasmtech/workspaces-issues) - A container streaming platform for delivering browser, desktop, and application workloads to the web browser.
+- [Omarchy](https://github.com/omacom/omarchy) - An opinionated, modern Linux distribution built on Arch Linux and the Hyprland tiling window manager. It delivers a refined out-of-the-box desktop experience with automated system snapshots, custom theming, and built-in desktop utilities.
 - [Puter](https://github.com/HeyPuter/puter) - An advanced, open-source internet OS designed to run in the browser, featuring a feature-rich desktop environment and file management system.
 - [Webtop](https://github.com/linuxserver/docker-webtop) - Linux in a web browser supporting popular desktop environments (Ubuntu, Alpine, Arch, and Fedora).
 
