@@ -35,6 +35,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Mattermost](https://github.com/mattermost/mattermost) - An open-source messaging platform for secure team collaboration and devops workflows.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - A highly customizable open source communications platform for team messaging, customer service, and community engagement.
 
+## Content Management Systems
+
+- [EmDash](https://github.com/emdash-cms/emdash) - An open-source, full-stack TypeScript CMS built on Astro and designed as a modern alternative to WordPress. It features an edge-native serverless architecture, sandboxed worker isolates for secure plugins, and native Model Context Protocol (MCP) support for AI integrations.
+
 ## Databases
 
 - [CloudNativePG](https://github.com/cloudnative-pg/cloudnative-pg) - A comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle.
