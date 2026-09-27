@@ -7,11 +7,13 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [KServe](https://github.com/kserve/kserve) - A standardized, highly scalable machine learning model serving platform for Kubernetes that supports serverless, multi-framework deployments.
 - [Kubeflow](https://www.kubeflow.org/) - A cloud-native platform designed to make deployments of machine learning workflows on Kubernetes simple, portable, and scalable.
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
+- [Ollaya](https://github.com/ollaya-dev/ollaya) - An open-source local runtime for pulling and serving decision models (such as classification, scoring, routing, and ranking) on your own hardware. Designed as an "Ollama for decision models," it delivers fast, low-latency inference behind a TypeSafe-compatible API without generative token overhead.
 - [oMLX](https://github.com/jundot/omlx) - An open-source, high-performance LLM inference server optimized for Apple Silicon using the MLX framework. It features OpenAI- and Anthropic-compatible APIs and includes paged SSD caching to speed up Time to First Token (TTFT) for large context windows.
 - [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...).
 - [OpenClaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform.
 - [Opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [OpenLIT](https://github.com/openlit/openlit) - Open-source platform for AI engineering offering OpenTelemetry-native LLM observability, evaluations, and prompt management.
+- [Paperclip](https://github.com/paperclipai/paperclip) - An open-source orchestration tool and management plane for running teams of AI agents. It provides a web dashboard to assign organizational goals, manage specialized agent roles, and monitor tasks and budgets across agent runtimes.
 - [Pi](https://github.com/earendil-works/pi) - An open-source AI agent toolkit providing a unified LLM API, interactive TUI, agent loop, and coding agent CLI.
 - [Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code) - An open-source AI-powered coding assistant and VS Code extension supporting autonomous development, custom workflow modes, and Model Context Protocol (MCP) integrations.
 
@@ -42,6 +44,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ## Databases
 
 - [CloudNativePG](https://github.com/cloudnative-pg/cloudnative-pg) - A comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle.
+- [DuckDB](https://github.com/duckdb/duckdb) - An open-source, high-performance in-process SQL analytical database management system. Designed for fast analytical queries with columnar execution and zero external dependencies, it functions as an embedded analytical alternative to SQLite.
 - [Greenmask](https://github.com/GreenmaskIO/greenmask) - Open-source utility for database anonymization, synthetic data generation, and logical dumps.
 - [MariaDB Operator](https://github.com/mariadb-operator/mariadb-operator) - Run and operate MariaDB in a cloud native way.
 - [OpenEverest](https://github.com/openeverest/openeverest) - An open-source platform for automated database provisioning and management on Kubernetes.
@@ -54,6 +57,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ### Application Platforms
 
 - [Radius](https://github.com/radius-project/radius) - A cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
+
+### Cloud Emulation
+
+- [Floci](https://github.com/floci-io/floci) - A lightweight, open-source local cloud emulator serving as a free, drop-in alternative to LocalStack. Built with Java and Quarkus and compiled as a GraalVM native binary, it offers fast startup and low resource consumption for testing AWS services locally.
 
 ### Containers
 
@@ -216,6 +223,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [AirTrail](https://github.com/johanohly/AirTrail) - An open-source, self-hosted personal flight tracking system to visualize flights on interactive maps, import flight logs, and view travel statistics.
 - [Dawarich](https://github.com/Freika/dawarich) - An open-source, self-hosted location tracking web application and Google Timeline alternative for visualizing location history and trips.
+- [OsmAnd](https://github.com/osmandapp/osmand) - An open-source mobile map and navigation app for Android and iOS powered by OpenStreetMap data, featuring offline routing, search, and POI details. Installing via F-Droid instead of Google Play provides access to OsmAnd+ features, including unlimited offline map downloads, without additional cost.
 
 
 ## Search Engines
@@ -252,6 +260,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ### Pentesting
 
 - [Shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps.
+- [Strix](https://github.com/usestrix/strix) - An open-source autonomous AI penetration testing tool that identifies and helps fix security vulnerabilities in applications. It analyzes codebases, safely executes exploits to confirm vulnerabilities, and provides detailed remediation steps.
 
 ### Personal Security
 
