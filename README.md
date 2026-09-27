@@ -119,6 +119,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ### Source Code Management
 
+- [Forgejo](https://forgejo.org/) - A community-driven, self-hosted software forge providing Git hosting, code review, issue tracking, and CI/CD pipelines. Created as a fork of Gitea, it places a strong emphasis on software freedom, privacy, and community governance.
 - [Gitea](https://github.com/go-gitea/gitea) - A painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD.
 
 ### Utilities
