@@ -4,6 +4,8 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ## AI / Machine Learning
 
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) - An open-source, autonomous AI agent designed to run persistently on your own infrastructure. It features persistent memory across sessions, self-improvement through learned skills, and built-in integrations for platforms like Slack, Telegram, and the CLI.
+- [kagent](https://github.com/kagent-dev/kagent) - A cloud-native framework for building, deploying, and managing AI agents as first-class workloads on Kubernetes. It models agents using custom resources (CRDs), enabling declarative configuration, GitOps workflows, and native integration with Model Context Protocol (MCP) servers.
 - [KServe](https://github.com/kserve/kserve) - A standardized, highly scalable machine learning model serving platform for Kubernetes that supports serverless, multi-framework deployments.
 - [Kubeflow](https://www.kubeflow.org/) - A cloud-native platform designed to make deployments of machine learning workflows on Kubernetes simple, portable, and scalable.
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
@@ -21,6 +23,9 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [GrapheneOS](https://grapheneos.org/) - A security and privacy focused mobile OS with Android app compatibility.
 
+## Business Intelligence
+
+- [Apache Superset](https://github.com/apache/superset) - A modern, enterprise-ready business intelligence and data visualization web application. It features an intuitive visual interface, an interactive SQL editor, and support for connecting to a wide variety of databases to build customizable dashboards.
 
 ## Cloud Desktop & OS
 
@@ -40,6 +45,11 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ## Content Management Systems
 
 - [EmDash](https://github.com/emdash-cms/emdash) - An open-source, full-stack TypeScript CMS built on Astro and designed as a modern alternative to WordPress. It features an edge-native serverless architecture, sandboxed worker isolates for secure plugins, and native Model Context Protocol (MCP) support for AI integrations.
+
+## Data Processing
+
+- [Apache Flink](https://flink.apache.org/) - An open-source, unified stream and batch processing framework designed for stateful computations over data streams. It delivers high throughput, low latency, and exactly-once processing guarantees at massive scale.
+- [Apache Spark](https://github.com/apache/spark) - An open-source, multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters. It supports distributed batch and streaming data processing, large-scale SQL analytics, and graph computation.
 
 ## Databases
 
@@ -188,15 +198,19 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ## Messaging & Streaming
 
+- [Apache Pulsar](https://github.com/apache/pulsar) - A cloud-native, distributed messaging and streaming platform designed for high throughput, low latency, and scalability. It features native multi-tenancy, geo-replication, and a decoupled architecture that separates compute from storage.
+- [Apache RocketMQ](https://github.com/apache/rocketmq) - A distributed messaging and streaming platform designed for low latency, high concurrency, and massive scale. It supports flexible pub-sub and queuing models, financial-grade transactional messaging, and built-in event-driven streaming.
 - [AutoMQ](https://github.com/AutoMQ/automq) - A diskless Kafka® on S3 offering 10x cost savings and scaling in seconds.
 - [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes.
 
 ## Monitoring
 
 - [Alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines.
+- [Apache SkyWalking](https://github.com/apache/skywalking) - An open-source application performance monitoring (APM) and observability analysis platform. It provides distributed tracing, metrics collection, logging, and topology mapping for microservices, cloud-native, and containerized architectures.
 - [Beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of web applications and network metrics.
 - [Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter for Prometheus.
 - [Grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform.
+- [HolmesGPT](https://github.com/HolmesGPT/holmesgpt) - An open-source, CNCF Sandbox AI agent designed for Site Reliability Engineering (SRE) and automated incident investigation. It correlates alerts, logs, and metrics across Kubernetes and cloud infrastructure to identify root causes and suggest remediations safely.
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [Mimir](https://github.com/grafana/mimir) - Provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry, an observability framework for cloud-native software.
@@ -267,6 +281,11 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Personal Security Checklist](https://github.com/lissy93/personal-security-checklist) - A compiled checklist of 300+ tips for protecting digital security and privacy.
 
+### Reverse Engineering
+
+- [Ghidra](https://github.com/nationalsecurityagency/ghidra) - A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. It includes a suite of feature-rich analysis tools enabling users to analyze compiled code on a variety of platforms, including a disassembler, decompiler, assembler, and scripting interface.
+- [rea](https://github.com/morluto/rea) - An autonomous reverse engineering framework powered by AI agents to analyze targets from high-level app behavior down to native binaries. It automates decompilation analysis, dynamic inspection, and vulnerability discovery using specialized agent workflows.
+
 ### Secrets Management
 
 - [Infisical](https://github.com/Infisical/infisical) - Open source secret management platform with Privileged Access Management (PAM) and certificate management (PKI) to help teams sync secrets across their development lifecycle and infrastructure.
@@ -317,3 +336,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Plausible](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [PostHog](https://github.com/PostHog/posthog) - An all-in-one developer platform for building successful products, offering product analytics, web analytics, session replay, and more.
 - [Umami](https://github.com/umami-software/umami) - A modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+
+## Workflow Orchestration
+
+- [Apache Airflow](https://github.com/apache/airflow) - An open-source platform designed to programmatically author, schedule, and monitor complex data pipelines and workflows. Workflows are authored as Directed Acyclic Graphs (DAGs) in Python, featuring rich scheduling options and extensible integrations.
