@@ -17,6 +17,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [OpenLIT](https://github.com/openlit/openlit) - Open-source platform for AI engineering offering OpenTelemetry-native LLM observability, evaluations, and prompt management.
 - [Paperclip](https://github.com/paperclipai/paperclip) - An open-source orchestration tool and management plane for running teams of AI agents. It provides a web dashboard to assign organizational goals, manage specialized agent roles, and monitor tasks and budgets across agent runtimes.
 - [Pi](https://github.com/earendil-works/pi) - An open-source AI agent toolkit providing a unified LLM API, interactive TUI, agent loop, and coding agent CLI.
+- [Ponytail](https://github.com/dietrichgebert/ponytail) - A minimalist engineering prompt and skill framework for AI coding agents that encourages writing only necessary code and reusing existing components. It guides agents to avoid bloated implementations and unnecessary dependencies while maintaining rigorous testing, security, and error handling.
 - [Zoo Code](https://github.com/Zoo-Code-Org/Zoo-Code) - An open-source AI-powered coding assistant and VS Code extension supporting autonomous development, custom workflow modes, and Model Context Protocol (MCP) integrations.
 
 ## Android
