@@ -76,6 +76,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ### Containers
 
 - [Apple Container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac, optimized for Apple silicon.
+- [Artifact Keeper](https://github.com/artifact-keeper/artifact-keeper) - An enterprise-grade, open-source universal artifact and container registry built in Rust as a drop-in alternative to Artifactory and Nexus. It supports OCI images alongside 45+ package formats, automated security scanning with Trivy and Grype, and edge replication.
 - [Buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [Harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [Kaniko](https://github.com/chainguard-forks/kaniko) - A tool to build container images in Kubernetes without Docker daemon. This repository is a fork of [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) maintained by Chainguard. Another community fork is available at [osscontainertools/kaniko](https://github.com/osscontainertools/kaniko).
