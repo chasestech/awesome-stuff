@@ -290,6 +290,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ### Secrets Management
 
+- [fnox](https://github.com/jdx/fnox) - A fast, flexible encrypted and remote secret manager that injects secrets directly into processes as environment variables. It unifies static vaults (including age encryption, 1Password, Bitwarden, and AWS) with dynamic, ephemeral credentials from sources like Cloudflare, GitHub Apps, and cloud STS providers behind a single declarative configuration.
 - [Infisical](https://github.com/Infisical/infisical) - Open source secret management platform with Privileged Access Management (PAM) and certificate management (PKI) to help teams sync secrets across their development lifecycle and infrastructure.
 - [OpenBao](https://github.com/openbao/openbao) - Open source secret management software for managing secrets and protecting sensitive data, created as a fork of HashiCorp Vault.
 
