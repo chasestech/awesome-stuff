@@ -4,6 +4,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ## AI / Machine Learning
 
+- [Agentgateway](https://github.com/agentgateway/agentgateway) - An open-source, AI-native proxy and data plane built in Rust for LLMs, the Model Context Protocol (MCP), and agent-to-agent (A2A) communication. It features intelligent inference routing, provider failover, cost and token tracking, and integration with the Kubernetes Gateway API.
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) - An open-source, autonomous AI agent designed to run persistently on your own infrastructure. It features persistent memory across sessions, self-improvement through learned skills, and built-in integrations for platforms like Slack, Telegram, and the CLI.
 - [kagent](https://github.com/kagent-dev/kagent) - A cloud-native framework for building, deploying, and managing AI agents as first-class workloads on Kubernetes. It models agents using custom resources (CRDs), enabling declarative configuration, GitOps workflows, and native integration with Model Context Protocol (MCP) servers.
 - [KServe](https://github.com/kserve/kserve) - A standardized, highly scalable machine learning model serving platform for Kubernetes that supports serverless, multi-framework deployments.
@@ -328,6 +329,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Rook](https://github.com/rook/rook) - An open source cloud-native storage orchestrator for Kubernetes, providing platform, framework, and support for a diverse set of storage solutions to natively integrate with cloud-native environments.
 - [RustFS](https://github.com/rustfs/rustfs) - An open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms.
 - [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - A fast distributed storage system for blobs, objects, files, and data lake, designed to store billions of files efficiently.
+
+## URL Shorteners
+
+- [Shlink](https://github.com/shlinkio/shlink) - An open-source, self-hosted URL shortener with a REST API, command-line interface, and web dashboard. It features multi-domain support, custom short URLs, QR code generation, and detailed visit tracking and analytics.
 
 ## Virtualization
 
