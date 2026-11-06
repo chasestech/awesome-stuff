@@ -26,6 +26,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [claude-mem](https://github.com/thedotmack/claude-mem) - A persistent memory and context-compression system for AI coding agents that automatically captures tool interactions and observations. It uses local storage and specialized retrieval skills to inject relevant project history and context into subsequent sessions.
 - [Ponytail](https://github.com/dietrichgebert/ponytail) - A minimalist engineering prompt and skill framework for AI coding agents that encourages writing only necessary code and reusing existing components. It guides agents to avoid bloated implementations and unnecessary dependencies while maintaining rigorous testing, security, and error handling.
 - [SkillSpector](https://github.com/NVIDIA/SkillSpector) - An open-source security scanner designed specifically for AI agent skills, instruction files, and Model Context Protocol (MCP) configurations. It analyzes agent extensions using static analysis rules and LLM-assisted verification to detect prompt injection, data exfiltration, tool poisoning, and excessive privilege risks.
+- [Spec Kit](https://github.com/github/spec-kit) - An open-source toolkit for Spec-Driven Development (SDD) that provides structured processes, templates, and agent skills for AI coding agents. It helps developers guide agents through multi-step workflows—from constitution and specification to architecture planning and task execution—before writing code.
 
 ## Android
 
