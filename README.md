@@ -245,6 +245,9 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [Dawarich](https://github.com/Freika/dawarich) - An open-source, self-hosted location tracking web application and Google Timeline alternative for visualizing location history and trips.
 - [OsmAnd](https://github.com/osmandapp/osmand) - An open-source mobile map and navigation app for Android and iOS powered by OpenStreetMap data, featuring offline routing, search, and POI details. Installing via F-Droid instead of Google Play provides access to OsmAnd+ features, including unlimited offline map downloads, without additional cost.
 
+## Presentations
+
+- [Slidev](https://github.com/slidevjs/slidev) - An open-source presentation slides maker designed for developers that converts Markdown into interactive slide decks. It features built-in syntax highlighting, live coding capabilities, interactive Vue components, and UnoCSS styling with support for exporting to PDF, PNG, or single-page applications.
 
 ## Search Engines
 
