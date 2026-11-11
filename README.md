@@ -69,6 +69,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 - [OpenEverest](https://github.com/openeverest/openeverest) - An open-source platform for automated database provisioning and management on Kubernetes.
 - [Supabase](https://github.com/supabase/supabase) - An open source Firebase alternative giving you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database for the realtime web.
+- [Valkey](https://github.com/valkey-io/valkey) - An open-source, high-performance in-memory key-value datastore backed by the Linux Foundation for caching, message queues, and primary database workloads. Originally forked from Redis under the BSD license, it also offers the [Valkey Operator](https://github.com/valkey-io/valkey-operator) for automating cluster deployments and scaling on Kubernetes.
 - [Vitess](https://github.com/vitessio/vitess) - A database clustering system for horizontal scaling of MySQL, allowing you to grow your database indefinitely.
 
 ## Development
