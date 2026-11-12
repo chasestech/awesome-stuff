@@ -80,6 +80,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ### Cloud Emulation
 
+- [AWS Emulator](https://github.com/aws/aws-emulator) - An official, lightweight local emulator for AWS APIs built in Rust using the same API models as the AWS SDKs. It lets developers, CI/CD pipelines, and AI coding agents test and iterate on AWS applications locally in isolated, in-memory instances without an AWS account.
 - [Floci](https://github.com/floci-io/floci) - A lightweight, open-source local cloud emulator serving as a free, drop-in alternative to LocalStack. Built with Java and Quarkus and compiled as a GraalVM native binary, it offers fast startup and low resource consumption for testing AWS services locally.
 
 ### Containers
