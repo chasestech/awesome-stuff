@@ -4,6 +4,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ## AI / Machine Learning
 
+- [Agent Substrate](https://github.com/agent-substrate/substrate) - An open-source, zero-trust runtime for running sandboxed AI agents and stateful actor workloads on Kubernetes. It isolates each agent in a dedicated gVisor or Cloud Hypervisor microVM with per-agent SPIFFE identities, credential-injecting egress gateways, and sub-500ms snapshot-and-restore multiplexing onto warm worker pools.
 - [Agentgateway](https://github.com/agentgateway/agentgateway) - An open-source, AI-native proxy and data plane built in Rust for LLMs, the Model Context Protocol (MCP), and agent-to-agent (A2A) communication. It features intelligent inference routing, provider failover, cost and token tracking, and integration with the Kubernetes Gateway API.
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) - An open-source, autonomous AI agent designed to run persistently on your own infrastructure. It features persistent memory across sessions, self-improvement through learned skills, and built-in integrations for platforms like Slack, Telegram, and the CLI.
 - [kagent](https://github.com/kagent-dev/kagent) - A cloud-native framework for building, deploying, and managing AI agents as first-class workloads on Kubernetes. It models agents using custom resources (CRDs), enabling declarative configuration, GitOps workflows, and native integration with Model Context Protocol (MCP) servers.
