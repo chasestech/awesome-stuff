@@ -250,6 +250,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 ### Control Planes
 
 - [Crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane.
+- [Karmada](https://github.com/karmada-io/karmada) - A CNCF graduated multi-cloud, multi-cluster Kubernetes orchestration and management system. It speaks Kubernetes-native APIs to schedule, scale, and fail over workloads across public clouds, on-premises, and edge clusters without requiring changes to existing applications.
 - [Kro](https://github.com/kubernetes-sigs/kro) - Kube Resource Orchestrator.
 
 ### Dashboards
