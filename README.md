@@ -348,6 +348,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 ### Encryption
 
+- [age](https://github.com/FiloSottile/age) - A simple, modern, and secure file encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. It supports encrypting to native X25519 keys, SSH keys, or passphrases without the complexity of GPG.
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 
 ### Identity & Access Management
