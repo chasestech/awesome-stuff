@@ -31,6 +31,7 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
   - [Automation](#automation)
   - [Inventory](#inventory)
   - [Media](#media)
+- [Infrastructure as Code](#infrastructure-as-code)
 - [Knowledge Management](#knowledge-management)
 - [Kubernetes](#kubernetes)
   - [Autoscaling](#autoscaling)
@@ -233,6 +234,10 @@ A curated list of tools and projects that I find interesting. Inclusion in this 
 
 - [Immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System.
+
+## Infrastructure as Code
+
+- [OpenTofu](https://github.com/opentofu/opentofu) - An open-source, Linux Foundation-backed infrastructure as code tool forked from Terraform, providing a drop-in, community-driven alternative for declaratively provisioning and managing cloud and on-premises resources. It supports existing Terraform configurations and providers while adding features like client-side state encryption and early variable evaluation.
 
 ## Knowledge Management
 
